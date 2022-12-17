@@ -6,8 +6,7 @@ I'm currently interested in mobile developing and artificial intelligence. Pleas
 - Gangseo High School (2014~2017)
 - Seoul National University Mechanical Engineering & Artificial Intelligence (Interdiciplinary Major) (2017 ~)
 - SSAI Undergraduate Research Intership Mobile Developer (2022.1 ~2022.8)
-- [**Robust Perception and Mobile Robotics Lab**](https://rpm.snu.ac.kr/) Intership (2022.6~)
-  - Thesis : TerF, thermal Radiance Field for Rendering Depth in Transparent Objects
+- [Robust Perception and Mobile Robotics Lab](https://rpm.snu.ac.kr/) Intership (2022.6~)
 
 
 ## Stacks
@@ -27,4 +26,17 @@ I'm currently interested in mobile developing and artificial intelligence. Pleas
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ## Projects
+### 1. MMIS(Military Meal Information System)
+- Summary : Meal information system for helping military soldiers to easily access meal information and actively participate in improving their meal plan. Submitted for 2021 OSAM Hackerton. 
+- Role : Team leader and Frontend(Mobile) developer 
+- [More Info](https://github.com/osamhack2021/APP_WEB_AI_MMIS_teamMMIS)
 
+### 2. SSAI Remote Proctor
+- Summary : Realtime remote proctor for online exam
+- Role : Android Mobile Client development, Object detection model(YOLO) development and application to mobile app, Flutter plugin development
+- [More Info](https://www.notion.so/a9b7778591aa48479e963def2d199e0d)
+- [Flutter RTMP Plugin](https://github.com/espanic/rtmp_with_capture)
+
+
+### 3. TerF
+- [TerF, thermal Radiance Field for Rendering Depth in Transparent Objects](https://github.com/espanic/TerF)
