@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently interested in mobile developing and artificial intelligence. Please contact me via potatohead12@naver.com
+I'm currently interested in mobile developing and artificial intelligence. Please contact me via potatohead12@snu.ac.kr
 <br/><br/>
 
 ## My Profile
