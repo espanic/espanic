@@ -11,12 +11,11 @@ I'm currently interested in mobile development and artificial intelligence. Plea
 
 ## Stacks
 ### Languages
-
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![c](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
-![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
 ![swift](https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=Swift&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
+![c](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
 ![java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
 
 
