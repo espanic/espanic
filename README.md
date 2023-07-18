@@ -6,7 +6,8 @@ I'm currently interested in mobile development and artificial intelligence. Plea
 - Gangseo High School (2014~2017)
 - Seoul National University Mechanical Engineering & Artificial Intelligence (Interdiciplinary Major) (2017 ~)
 - SSAI Undergraduate Research Intership Mobile Developer (2022.1 ~2022.8)
-- [Robust Perception and Mobile Robotics Lab](https://rpm.snu.ac.kr/) Intership (2022.6~)
+- [Robust Perception and Mobile Robotics Lab](https://rpm.snu.ac.kr/) Intership (2022.6 ~ 2023.6)
+- [Software Maestro](https://www.swmaestro.org/sw/main/main.do) 14th (2023.4~)
 
 
 ## Stacks
